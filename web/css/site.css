@@ -98,4 +98,4 @@ button[name="login-button"]:hover{
     border-color: #04B404;
 }
 @-moz-document url-prefix(){.field-loginform-username label,.field-loginform-password label{margin-right: -15px;}}
-@media screen and (-webkit-min-device-pixel-ratio:0) {.field-loginform-username label,.field-loginform-password label{margin-right: -4px; }
+@media screen and (-webkit-min-device-pixel-ratio:0) {.field-loginform-username label,.field-loginform-password label{margin-right: -4px; }}
