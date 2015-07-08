@@ -17,9 +17,6 @@ class m150707_114536_create_country_table extends Migration
     public function down()
     {
         $this->dropTable('tbl_countries');
-        echo "m150707_114536_create_country_table cannot be reverted.\n";
-
-        return false;
     }
     
     /*
